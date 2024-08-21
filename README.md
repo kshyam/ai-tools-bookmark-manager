@@ -15,12 +15,11 @@ The **AI Tools Bookmark Manager** is a Chrome extension designed to help you man
 
 1.  **Clone the Repository**:
     
-    bash
+  
     
-    Copy code
-    
-    `git clone git@github.com:kshyam/ai-tools-bookmark-manager.git
-    cd ai-tools-bookmark-manager` 
+  > git clone git@github.com:kshyam/ai-tools-bookmark-manager.git
+
+  > cd ai-tools-bookmark-manager
     
 2.  **Load the Extension**:
     
