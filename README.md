@@ -19,7 +19,7 @@ The **AI Tools Bookmark Manager** is a Chrome extension designed to help you man
     
     Copy code
     
-    `git clone https://github.com/yourusername/ai-tools-bookmark-manager.git
+    `git clone git@github.com:kshyam/ai-tools-bookmark-manager.git
     cd ai-tools-bookmark-manager` 
     
 2.  **Load the Extension**:
@@ -27,6 +27,9 @@ The **AI Tools Bookmark Manager** is a Chrome extension designed to help you man
     -   Open Chrome and navigate to `chrome://extensions/`.
     -   Enable "Developer mode" at the top right.
     -   Click "Load unpacked" and select the directory where you cloned the repository.
+
+    ![how-to-upload-extension-to-chrome](/how-to-upload-extension-to-chrome.png "how-to-upload-extention-to-chrome")
+
 3.  **Use the Extension**:
     
     -   Click the extension icon in your Chrome toolbar to open the popup.
@@ -52,6 +55,9 @@ The **AI Tools Bookmark Manager** is a Chrome extension designed to help you man
     -   Click "Export as CSV" to download a CSV file containing all your bookmarks.
 
 ## Screenshots
+
+    ![how-bookmark-extension-looks](/how-bookmark-extension-looks.png "how-bookmark-extension-looks")
+
 
 ## Contributing
 
