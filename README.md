@@ -56,7 +56,7 @@ The **AI Tools Bookmark Manager** is a Chrome extension designed to help you man
 
 ## Screenshots
 
-    ![how-bookmark-extension-looks](/how-bookmark-extension-looks.png "how-bookmark-extension-looks")
+![how-bookmark-extension-looks](/how-bookmark-extension-looks.png "how-bookmark-extension-looks")
 
 
 ## Contributing
